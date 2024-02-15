@@ -1,3 +1,7 @@
+'''
+My solution to the problem uses a BFS approach to find the minimum number of buses to reach the destination.
+I create a dictionary that maps each stop to the routes that pass through it.
+'''
 class Solution:
     def numBusesToDestination(self, routes: List[List[int]], source: int, target: int) -> int:
         if source == target:
