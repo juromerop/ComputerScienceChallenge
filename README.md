@@ -1,30 +1,12 @@
 # Computer Science Challenge 
-## LeetCode Exercices 
-#### Link: https://leetcode.com/jugarzonp/
 
+### LeetCode profile: https://leetcode.com/jugarzonp/
 
+## Big O for temporal and spatial complexity
 
-### Easy - Duplicate zeros
-
-- Time complexity is O()
-- Space complexity is O()
-
-### Medium - All elements in two binary search trees
-
-- Time complexity is O()
-- Space complexity is O()
-
-### Hard - Bus routes
-
-- Time complexity is O()
-- Space complexity is O()
-
-### Impossible - Longest Valid parentheses
-
-- Time complexity is O()
-- Space complexity is O()
-
-##
-
-#### Note: 
-All the exercises pass all the test cases.
+| Difficulty | Exercise                                | Temporal complexity | Spatial complexity |
+| ---------- |-----------------------------------------|:-------------------:|:------------------:|
+| Easy       | Duplicate Zeros                         | O()                 | O()                |
+| Medium     | All Elements in Two Binary Search Trees | O()                 | O()                |
+| Hard       | Bus Routes                              | O()                 | O()                |
+| Impossible | Longest Valid Parentheses               | O()                 | O()                |
